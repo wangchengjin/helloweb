@@ -1,0 +1,26 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;fastweb&gt;">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../gopkg.in" />
+      <root url="file://$PROJECT_DIR$/../github.com" />
+      <root url="file://$PROJECT_DIR$/../src" />
+      <root url="file://$PROJECT_DIR$/../simple" />
+      <root url="file://$PROJECT_DIR$/../studio" />
+      <root url="file://$PROJECT_DIR$/../golang.org" />
+      <root url="file://$PROJECT_DIR$/../material-ui-master" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../gopkg.in" />
+      <root url="file://$PROJECT_DIR$/../github.com" />
+      <root url="file://$PROJECT_DIR$/../src" />
+      <root url="file://$PROJECT_DIR$/../simple" />
+      <root url="file://$PROJECT_DIR$/../studio" />
+      <root url="file://$PROJECT_DIR$/../golang.org" />
+      <root url="file://$PROJECT_DIR$/../material-ui-master" />
+    </SOURCES>
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>
